@@ -1,0 +1,7 @@
+{
+	"posts": [
+		{ "id": 1, "title": "this is 1 post", "body": "Текст поста 1", "author": "Антонов"},
+		{ "id": 2, "title": "this is 2 post", "body": "Текст поста 2", "author": "Грибонов"},
+		{ "id": 3, "title": "this is 3 post", "body": "Текст поста 3", "author": "Семенов"}
+	]
+}
